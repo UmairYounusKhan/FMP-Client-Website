@@ -1,0 +1,106 @@
+/* navigation start */
+.navbar1{
+  font-weight: bold;
+  font-size: 40px;
+}
+/* navigation end */
+
+/* slider image */
+#himage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    width: 100%;
+}
+#Hh{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+/* slider image */
+
+
+
+
+
+
+/* cards start */
+#Ahead{
+    display: flex;
+    align-items: center;
+    font-size: 40px;
+  }
+  #Ahead::before, #Ahead::after{
+    flex: 1;
+    content: "";
+    height: 1px;
+    background-color: rgb(51, 49, 49);
+  }
+
+
+  #hcards{
+    display: flex !important;
+    justify-content: center !important;
+  }
+  #color{
+    background-color: rgb(242, 249, 254);
+  }
+
+  /* cards end */
+
+
+
+
+  /* Second header */
+  #himage1{
+    display: flex;
+   justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+  }
+  .sh1{
+    text-align: center;
+    font-weight: bold;
+    color: rgb(206, 199, 199);
+  }
+  
+  #sb1{
+margin-left: 35%;
+
+  }
+  #sb1:hover{
+color: white;
+background-color: blue;
+  }
+    /* Second header end */
+
+
+    /* reviews */
+    .homediv100{
+        padding: 9% !important;
+    }
+    .homediv101{
+        border-radius: 5% !important;
+        
+    }
+    .homediv102{
+        padding-left: 39.5% !important;
+        padding-right: 39.5% !important;
+    }
+    .homediv100{
+        padding-top: 0px !important;
+        background-color: rgb(148, 144, 144) !important;
+        color: white !important;
+        padding-bottom: 50px !important;
+    }
+     /* reviews */
+
+     /* footer */
+     .text-reset{
+      text-decoration: none;
+     }
+    

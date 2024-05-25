@@ -1,0 +1,7 @@
+.box-anime:hover{
+    transition-duration: .2s;
+    background: rgb(211,74,181);
+background: linear-gradient(180deg, rgb(101, 74, 211) 0%, rgb(9, 4, 4) 72%, rgb(150, 45, 202) 100%);
+    color: white;
+    
+    cursor: pointer;}
